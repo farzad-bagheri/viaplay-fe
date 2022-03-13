@@ -1,0 +1,12 @@
+.item-thumbnail {
+    width: 256px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.item-thumbnail img {
+    max-width: 100%;
+    height: auto;
+}

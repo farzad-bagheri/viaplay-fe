@@ -12,6 +12,12 @@ She knows it is not great, and she has now asked you to take a look at it, to gi
 4. **Add any relevant instructions to run the app in the README.**
 5. **Push code to any git hosting providers like github or gitlab. Share the repo with us.**
 
+### To do:
+1. **Add tests**
+2. **Use a css preprocessor**
+3. **Error handling**
+4. **Use local storage**
+
 Do not spend more than two hours on this assignment. Keep it simple!
 
 ---
