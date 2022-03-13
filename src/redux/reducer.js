@@ -40,6 +40,8 @@ const reducer = (oldState = appState, action) => {
             }];
             localStorage.setItem('movies-all', JSON.stringify(newState.movies));
             break;
+        default:
+            break;
     }
 
     return newState;
